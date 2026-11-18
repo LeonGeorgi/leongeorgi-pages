@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#fafafa"/>
+  <g transform="translate(2 27)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <rect x="80" y="42" width="736" height="230" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <path d="M80 157h736" stroke="#d4d4d4" stroke-width="2"/>
+    <g font-size="30" fill="#666">
+      <text x="108" y="110">324445247414</text>
+      <rect x="106" y="191" width="102" height="38" fill="#dae7f6"/>
+      <rect x="208" y="191" width="126" height="38" fill="#b6d0ef"/>
+      <text x="108" y="221">Hello World.</text>
+    </g>
+    <rect x="80" y="304" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="166" y="342" text-anchor="middle" fill="#222" font-size="32">1</text>
+    <text x="166" y="377" text-anchor="middle" fill="#777" font-size="18">a d m y</text>
+    <rect x="268" y="304" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="354" y="342" text-anchor="middle" fill="#222" font-size="32">2</text>
+    <text x="354" y="377" text-anchor="middle" fill="#777" font-size="18">c e v w</text>
+    <rect x="456" y="304" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="542" y="342" text-anchor="middle" fill="#222" font-size="32">3</text>
+    <text x="542" y="377" text-anchor="middle" fill="#777" font-size="18">/ h p s u</text>
+    <rect x="644" y="304" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="730" y="342" text-anchor="middle" fill="#222" font-size="32">4</text>
+    <text x="730" y="377" text-anchor="middle" fill="#777" font-size="18">. g k l o</text>
+    <rect x="80" y="412" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="166" y="450" text-anchor="middle" fill="#222" font-size="32">5</text>
+    <text x="166" y="485" text-anchor="middle" fill="#777" font-size="18">␣ ! ? f j</text>
+    <rect x="268" y="412" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="354" y="450" text-anchor="middle" fill="#222" font-size="32">6</text>
+    <text x="354" y="485" text-anchor="middle" fill="#777" font-size="18">, b i n q</text>
+    <rect x="456" y="412" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <text x="542" y="450" text-anchor="middle" fill="#222" font-size="32">7</text>
+    <text x="542" y="485" text-anchor="middle" fill="#777" font-size="18">r t x z ’</text>
+    <rect x="644" y="412" width="172" height="92" fill="none" stroke="#d4d4d4" stroke-width="2"/>
+    <g transform="translate(706 434) scale(2)" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 5h12v14H9L2 12 9 5Z"/><path d="m12 9 6 6m0-6-6 6"/>
+    </g>
+  </g>
+</svg>
