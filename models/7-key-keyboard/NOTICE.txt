@@ -1,0 +1,7 @@
+The seven-key keyboard model is derived from Hugging Face FineWeb, sample-10BT.
+https://huggingface.co/datasets/HuggingFaceFW/fineweb
+
+FineWeb is available under the Open Data Commons Attribution License 1.0.
+https://opendatacommons.org/licenses/by/1-0/
+
+This model contains word frequencies and pruned bigrams from a roughly 10-million-word sample.
